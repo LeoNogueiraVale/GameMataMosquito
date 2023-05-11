@@ -1,0 +1,1 @@
+Projeto acadêmico de um game chamado mata-mosquito  feito em HTML, JS e CSS. 
